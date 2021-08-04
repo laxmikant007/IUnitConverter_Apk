@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iUnitConverter</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="string_todo">todoo</string>
+    <string name="textview">TextView</string>
+</resources>
